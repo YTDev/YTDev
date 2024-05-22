@@ -63,6 +63,21 @@
 </div>
 
 <br/><br/>
+![](./profile-3d-contrib/profile-green-animate.svg)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YTDev/YTDev/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YTDev/YTDev/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/YTDev/YTDev/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTDev&show_icons=true)](https://github.com/YTDev/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTDev&layout=compact)
+
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YTDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
 
 <hr/>
 
