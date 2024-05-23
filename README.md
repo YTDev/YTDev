@@ -108,7 +108,7 @@
 </p>
 <div align="center">
     <a href="mailto:yassitale.business@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="padding: 10px; border-radius:25px;" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="padding: 50px; border-radius:25px;" />
   </a>
 </div>
 
