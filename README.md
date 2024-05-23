@@ -330,12 +330,12 @@
   <li>NPM, Yarn</li>
   <li>Visual Studio Code, Postman</li>
 </ul>
-
-<hr>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
+<hr>
+
 ## 🚀 Projects
 
 <h3><a href="https://printifybulkuploader.com">Printify Bulk Uploader</a></h3>
