@@ -74,3 +74,74 @@
 <hr/>
 
 <br/>
+
+
+# Hi, I'm Yassi T. 👋
+
+I'm a passionate and dedicated software engineer with a Bachelor's degree in Software Engineering from Ukraine. Due to the ongoing conflict, I have relocated to Portugal, where I am currently seeking new opportunities to grow and contribute as a React Developer.
+
+---
+
+## 📝 About Me
+
+- 📚 **Education:** Bachelor's Degree in Software Engineering from [Your University], Ukraine.
+- 🌍 **Location:** Based in Portugal, open to remote opportunities.
+- 💼 **Experience:** Experienced in building responsive and dynamic web applications using React.
+- 📈 **Goal:** Seeking to leverage my technical skills and experience to build innovative solutions and advance my career as a React Developer.
+
+---
+
+## 💻 Skills
+
+### Frontend Development
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Redux
+- Responsive Design, Material-UI, Bootstrap
+
+### Backend Development
+- Node.js, Express.js
+- RESTful APIs
+
+### Database
+- MongoDB, MySQL
+
+### Version Control
+- Git, GitHub
+
+### Tools & Technologies
+- Webpack, Babel
+- NPM, Yarn
+- Visual Studio Code, Postman
+
+---
+
+## 🚀 Projects
+
+### [Project Name 1](link-to-project-repo)
+- **Description:** A brief description of the project, technologies used, and the features implemented.
+- **Technologies:** React, Redux, Node.js, MongoDB
+- **Challenges:** Highlight any challenges faced and how you overcame them.
+
+### [Project Name 2](link-to-project-repo)
+- **Description:** Another brief description of the project, technologies used, and the features implemented.
+- **Technologies:** React, Express, MySQL
+- **Challenges:** Highlight any challenges faced and how you overcame them.
+
+### [Project Name 3](link-to-project-repo)
+- **Description:** A brief description of the project, technologies used, and the features implemented.
+- **Technologies:** React, RESTful APIs
+- **Challenges:** Highlight any challenges faced and how you overcame them.
+
+---
+
+## 📫 Contact Me
+
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me via:
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](link-to-your-linkedin-profile)
+- **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+
+---
+
+Thank you for visiting my profile! I look forward to connecting with you.
