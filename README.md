@@ -1,11 +1,4 @@
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YTDev.YTDev" />
-
-
-
-
-
-
- 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YTDev.YTDev" />
 
 
 <p align="center">
@@ -14,10 +7,6 @@
 </h1>
 </p>
 
-
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Your Profile Picture" width="150" height="150">
-</p>
 
 <p align="center">
   I'm a passionate and dedicated software engineer with a Bachelor's degree in Software Engineering from Ukraine. Due to the ongoing conflict, I have relocated to Portugal, where I am currently seeking new opportunities to grow and contribute as a React Developer.
@@ -67,6 +56,7 @@
   <li>NPM, Yarn</li>
   <li>Visual Studio Code, Postman</li>
 </ul>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
@@ -103,10 +93,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img height="300"  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YTDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img height="300"   src="https://github-readme-stats.vercel.app/api?username=YTDev&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+  <img height="250"   src="https://github-readme-stats.vercel.app/api?username=YTDev&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTDev&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img  height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTDev&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <hr>
