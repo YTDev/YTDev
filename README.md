@@ -81,7 +81,7 @@
 </ul>
 
 <hr>
-![](./profile-3d-contrib/profile-gitblock.svg)
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
