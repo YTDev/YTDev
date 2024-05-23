@@ -112,11 +112,7 @@
   </a>
 </div>
 
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="link-to-your-linkedin-profile">Your LinkedIn Profile</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/your-github-username">github.com/your-github-username</a></li>
-</ul>
+
 
 <hr>
 
