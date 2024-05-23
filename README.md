@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YTDev.YTDev" />
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+
 
 <p align="center">
   <h1 align="center">
@@ -85,7 +85,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YTDev/YTDev/output/github-contribution-grid-snake.svg" />
+![](./profile-3d-contrib/profile-gitblock.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YTDev/YTDev/profile-3d-contrib/profile-gitblock.svg" />
   <br/><br/><br/>
 </div>
 
