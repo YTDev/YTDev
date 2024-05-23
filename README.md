@@ -376,6 +376,11 @@
 <p>
   I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me via:
 </p>
+<div align="center">
+    <a href="mailto:yassitale.business@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
 <ul>
   <li><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
