@@ -81,12 +81,13 @@
 </ul>
 
 <hr>
-
+![](./profile-3d-contrib/profile-gitblock.svg)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![](./profile-3d-contrib/profile-gitblock.svg)
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YTDev/YTDev/profile-3d-contrib/profile-gitblock.svg" />
+
+  ![](./profile-3d-contrib/profile-gitblock.svg)
+  
   <br/><br/><br/>
 </div>
 
