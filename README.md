@@ -10,53 +10,15 @@
 
 
 <p align="center">
-  I'm a passionate and dedicated software engineer with a Bachelor's degree in Software Engineering from Ukraine. Due to the ongoing conflict, I have relocated to Portugal, where I am currently seeking new opportunities to grow and contribute as a React Developer.
+  Seeking new opportunities to grow and contribute as a React Developer.
 </p>
 
 <hr>
 
-## 📝 About Me
 
-<ul>
-  <li>📚 <strong>Education:</strong> Bachelor's Degree in Software Engineering from [Your University], Ukraine.</li>
-  <li>🌍 <strong>Location:</strong> Based in Portugal, open to remote opportunities.</li>
-  <li>💼 <strong>Experience:</strong> Experienced in building responsive and dynamic web applications using React.</li>
-  <li>📈 <strong>Goal:</strong> Seeking to leverage my technical skills and experience to build innovative solutions and advance my career as a React Developer.</li>
-</ul>
 
-<hr>
 
-## 💻 Skills
 
-<h3>Frontend Development</h3>
-<ul>
-  <li>HTML5, CSS3, JavaScript (ES6+)</li>
-  <li>React.js, Redux</li>
-  <li>Responsive Design, Material-UI, Bootstrap</li>
-</ul>
-
-<h3>Backend Development</h3>
-<ul>
-  <li>Node.js, Express.js</li>
-  <li>RESTful APIs</li>
-</ul>
-
-<h3>Database</h3>
-<ul>
-  <li>MongoDB, MySQL</li>
-</ul>
-
-<h3>Version Control</h3>
-<ul>
-  <li>Git, GitHub</li>
-</ul>
-
-<h3>Tools & Technologies</h3>
-<ul>
-  <li>Webpack, Babel</li>
-  <li>NPM, Yarn</li>
-  <li>Visual Studio Code, Postman</li>
-</ul>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -64,23 +26,6 @@
 </div>
 <hr>
 
-## 🚀 Projects
-
-<h3><a href="https://printifybulkuploader.com">Printify Bulk Uploader</a></h3>
-<ul>
-  <li><strong>Description:</strong> A web app that allows users to easily upload multiple design files to their Printify account with a secure bulk uploader. It saves time with simplified authentication and support for various file types.</li>
-  <li><strong>Technologies:</strong> HTML, CSS, JavaScript, Node.js, Printify API</li>
-  <li><strong>Challenges:</strong> Implementing secure authentication and handling various file types efficiently.</li>
-</ul>
-
-<h3><a href="https://priseencharge.com">Prise En Charge</a></h3>
-<ul>
-  <li><strong>Description:</strong> A tool that allows students to download a filled form necessary for their study in France. Additionally, it features a blog with various articles.</li>
-  <li><strong>Technologies:</strong> HTML, Tailwind CSS, Astro with React, PDFMake</li>
-  <li><strong>Challenges:</strong> Integrating form generation and PDF creation, and managing content for the blog.</li>
-</ul>
-
-<hr>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -110,7 +55,7 @@
   I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me via:
 </p>
 <div align="center">
-    <a href="mailto:yassitale.business@gmail.com">
+    <a href="mailto:yassinetaleb@hotmail.fr">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  />
   </a>
 </div>
@@ -119,4 +64,4 @@
 
 <hr>
 
-<p align="center">Thank you for visiting my profile! I look forward to connecting with you.</p>
+
