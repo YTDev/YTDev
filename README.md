@@ -9,16 +9,6 @@
 </p>
 
 
-<p align="center">
-  Seeking new opportunities to grow and contribute as a React Developer.
-</p>
-
-<hr>
-
-
-
-
-
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
